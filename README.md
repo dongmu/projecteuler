@@ -1,4 +1,7 @@
-projecteuler
+Projecteuler
 ============
 
-Solutions of the problems in projecteuler.net
+The website is :
+http://projecteuler.net/
+
+Use python to solve these problems and exercise the brain for fun.
